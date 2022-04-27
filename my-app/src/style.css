@@ -36,7 +36,9 @@ main {
   align-items: center;
   background-color: #f8f9fa;
   box-shadow: 0px 5px 2px rgb(146, 145, 145);
+  border-radius: 0.7em;
+  cursor: pointer;
 }
 .die span {
-  font-size: 2em;
+  font-size: 2rem;
 }
